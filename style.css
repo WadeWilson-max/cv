@@ -1,10 +1,10 @@
 body {
-    background-color: #f8dc81;
+    background-color: #bce6eb;
   }
   hr {
     border-style: none; /*the entire style for the border is none */
     border-top-style: dotted; /*except for the top border */
-    border-color: #eff7e1;
+    border-color: white;
     border-width: 10px;/*change the width of my dots*/
     width: 5%;
   }
